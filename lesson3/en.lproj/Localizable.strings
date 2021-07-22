@@ -1,0 +1,12 @@
+"Привет" = "Hello";
+"Введите имя" = "Enter your name";
+"Сложение" = "Summation";
+"Введите два числа" = "Enter two numbers";
+"Сложить" = "Result";
+"Неверно введены числа" = "Entered values are wrong";
+"Угадай число" = "Guess the number";
+"Введи число от 0 до 10" = "Enter the value between 0 and 10";
+"Угадал?" = "Guess";
+"Правильно! Загаданное число" = "Right! The number is";
+"Не угадал" = "You are wrong";
+"Нужно вводить число" = "You didn't enter the number";
